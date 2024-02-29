@@ -14,7 +14,7 @@ if (
 ):
     z = "hello " + "world"
 else:
-    world = "world"
+    world = "world."
     a = "hello {}".format(world)
     f = rf"hello {world}"
     if this and that:
